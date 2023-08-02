@@ -319,3 +319,10 @@ a{
     color: gold;
 }
 /*review end*/
+/*contact start*/
+.contact .row{
+    display: flex;
+    background-color: black;
+}
+
+/*contact end*/
